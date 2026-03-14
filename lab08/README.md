@@ -13,6 +13,8 @@ In this lab you have learned about multiplexers and demultiplexers.
 
 ## Names
 
+Cooper Oneida & Gabe Sali
+
 ## Summary
 
 In this lab we implemented a simple multiplexer & demultiplexer. Using the Basys board, we were able to see physically how different signals are sent through the multiplexers using the buttons for controlling flow and the switches for sending different signals.
